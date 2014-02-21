@@ -6,7 +6,7 @@ package GUI;
 
 /**
  *
- * @author Juanaco
+ * @author Jose
  */
 public class ImagePanel extends javax.swing.JPanel {
 

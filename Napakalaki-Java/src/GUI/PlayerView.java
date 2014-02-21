@@ -13,7 +13,7 @@ import napakalaki.*;
 
 /**
  *
- * @author juanantoniomarinsanchez
+ * @author Jose
  */
 public class PlayerView extends javax.swing.JPanel {
 

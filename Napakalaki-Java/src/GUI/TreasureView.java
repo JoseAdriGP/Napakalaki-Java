@@ -9,7 +9,7 @@ import napakalaki.TreasureKind;
 
 /**
  *
- * @author juanantoniomarinsanchez
+ * @author Jose
  */
 public class TreasureView extends javax.swing.JPanel {
     Treasure treasureModel;

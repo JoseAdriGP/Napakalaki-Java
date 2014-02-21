@@ -10,7 +10,7 @@ import napakalaki.Prize;
 
 /**
  *
- * @author juanantoniomarinsanchez
+ * @author Jose
  */
 public class Monster implements Card {
     private String name;

@@ -6,7 +6,7 @@ package napakalaki;
 
 /**
  *
- * @author juanantoniomarinsanchez
+ * @author Jose
  */
 public enum TreasureKind {
     ARMOR, ONEHAND, BOTHHAND, HELMET, SHOE, NECKLACE;

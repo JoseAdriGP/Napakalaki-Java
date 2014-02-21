@@ -7,7 +7,7 @@ package napakalaki;
 
 /**
  *
- * @author juanantoniomarinsanchez
+ * @author Jose
  */
 public class Prize {
     private int treasures;

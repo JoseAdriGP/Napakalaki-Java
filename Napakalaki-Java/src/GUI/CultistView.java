@@ -9,7 +9,7 @@ import napakalaki.CultistPlayer;
 
 /**
  *
- * @author juanantoniomarinsanchez
+ * @author Jose
  */
 public class CultistView extends javax.swing.JPanel {
     Cultist cultistModel;

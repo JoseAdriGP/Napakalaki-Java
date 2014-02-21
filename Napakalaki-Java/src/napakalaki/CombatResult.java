@@ -6,7 +6,7 @@ package napakalaki;
 
 /**
  *
- * @author Juanaco
+ * @author Jose
  */
 public enum CombatResult {
     WinAndWinGame, Win, Lose,LoseAndEscape,LoseAndDie,LoseAndConvert;

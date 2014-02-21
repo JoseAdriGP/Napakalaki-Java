@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author juanantoniomarinsanchez
+ * @author Jose
  */
 public class PruebaNapakalaki {
     

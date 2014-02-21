@@ -7,7 +7,7 @@ package napakalaki;
 
 /**
  *
- * @author Juanaco
+ * @author Jose
  */
 public class Treasure implements Card {
     private String name;

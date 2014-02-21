@@ -10,7 +10,7 @@ import napakalaki.*;
 
 /**
  *
- * @author juanantoniomarinsanchez
+ * @author Jose
  */
 public class NapakalakiView extends javax.swing.JFrame {
     Napakalaki napakalakiModel;

@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Juanaco
+ * @author Jose
  */
 public class Napakalaki {
     private static final Napakalaki instance = new Napakalaki();
